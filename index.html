@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0d1117">
+<title>25 Global Opportunities</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="top">
+  <h1>25 Global Opportunities</h1>
+  <p class="sub">Programming, CS and logic. Egypt-based, age 15. Last researched Nov 25, 2026.</p>
+</header>
+<div class="banner" role="note">
+  <strong>Check before you apply.</strong> Deadlines, eligibility and funding change. Always confirm on the official page. Anything marked <span class="flag">Unconfirmed / Verify on Official Page</span> could not be confirmed from an official source.
+</div>
+<div class="controls">
+  <input id="q" type="search" placeholder="Search name, type, topic..." aria-label="Search" autocomplete="off">
+  <div class="chips" id="chips" role="group" aria-label="Filters"></div>
+  <label class="sortrow">Sort
+    <select id="sort" aria-label="Sort">
+      <option value="deadline">Deadline (soonest first)</option>
+      <option value="name">Name A-Z</option>
+      <option value="travel">Travel first</option>
+      <option value="free">Free first</option>
+    </select>
+  </label>
+  <p id="count" class="count" aria-live="polite"></p>
+</div>
+<main id="list"></main>
+<div id="modal" class="modal" hidden>
+  <div class="sheet" role="dialog" aria-modal="true" aria-labelledby="mt">
+    <button id="close" class="close" aria-label="Close">&times;</button>
+    <div id="mbody"></div>
+  </div>
+</div>
+<footer>Cards sorted by approximate deadline. Dates without a confirmed official deadline are estimates for ordering only.</footer>
+<script src="app.js"></script>
+</body>
+</html>

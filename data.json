@@ -1,0 +1,469 @@
+[
+ {
+  "deadlineConfirmed": true,
+  "id": 1,
+  "name": "Inspirit AI Scholars (Live Online)",
+  "type": "Program",
+  "url": "https://www.inspiritai.com/liveonline",
+  "deadline": "Nov 30, 2026 (Winter 2026 cohort, rolling admissions)",
+  "deadlineSort": "2026-11-30",
+  "eligibility": "Grades 9-12 or equivalent; no coding experience needed. Egypt/international: online program, nationality limits Unconfirmed / Verify on Official Page.",
+  "travelDuration": "Remote only. 10 sessions, 25 hours.",
+  "funding": "Paid: USD $1,400 (official page). Financial aid: Unconfirmed / Verify on Official Page.",
+  "fit": "Pros: fast, structured AI/Python intro with a mentor-led project; fits a coder. Cons: costs money, no travel, mostly a paid course, not a competition. Admission is easy compared with the others on this list. The deadline is 5 days away.",
+  "tags": [
+   "tech"
+  ],
+  "isFree": false,
+  "hasTravel": false
+ },
+ {
+  "deadlineConfirmed": true,
+  "id": 2,
+  "name": "Hack Club Expedition (YSWS)",
+  "type": "Hackathon / Program",
+  "url": "https://expedition.hackclub.com/",
+  "deadline": "Rolling. Galway hackathon Dec 4-6, 2026; Bergen (Norway) April 2027 needs 100 logged hours. Exact cutoffs: Unconfirmed / Verify on Official Page",
+  "deadlineSort": "2026-12-04",
+  "eligibility": "Teens 13-18, free to join, no application. Egypt eligible by the page wording; visa support: Unconfirmed / Verify on Official Page.",
+  "travelDuration": "Hybrid. Build online, then optional in-person trips (Galway, Ireland, 4-6 Dec; Bergen, Norway, April 2027, 40 teens).",
+  "funding": "Free. Hours unlock gear grants or travel grants. Exact travel coverage per trip: Unconfirmed / Verify on Official Page.",
+  "fit": "Pros: you build real projects, it rewards time spent, and it has real trips. Cons: Schengen/Irish visas for an Egyptian passport are the main risk, and Galway is only 9 days away. The Bergen spot needs 100 hours. Easy to enter, competitive for trip seats.",
+  "tags": [
+   "tech",
+   "travel"
+  ],
+  "isFree": true,
+  "hasTravel": true
+ },
+ {
+  "deadlineConfirmed": true,
+  "id": 3,
+  "name": "Polygence Research Program",
+  "type": "Program (mentored research)",
+  "url": "https://www.polygence.org/prioritydeadline",
+  "deadline": "Dec 15, 2026, 11:59pm PT (priority deadline); later deadlines follow",
+  "deadlineSort": "2026-12-15",
+  "eligibility": "Middle and high school students; a 15-year-old in grade 9 fits. International students accepted: Unconfirmed / Verify on Official Page.",
+  "travelDuration": "Remote only. Ten sessions with a PhD mentor over 3-6 months; you can pick a CS or logic/philosophy project.",
+  "funding": "Paid: programs start around $3,000 (official FAQ). A fully funded Research for Impact Scholarship exists; terms: Unconfirmed / Verify on Official Page.",
+  "fit": "Pros: you get a real CS or philosophy research project with a mentor, and the output looks good on applications. Cons: expensive without the scholarship, and there is no travel. The scholarship is competitive and needs a personal-impact story.",
+  "tags": [
+   "tech"
+  ],
+  "isFree": false,
+  "hasTravel": false
+ },
+ {
+  "deadlineConfirmed": false,
+  "id": 4,
+  "name": "Lumiere Research Scholar Program",
+  "type": "Program (mentored research)",
+  "url": "https://www.lumiere-education.com/students-application-form",
+  "deadline": "Reported Dec 27, 2026 by a third-party listing only. Official deadline: Unconfirmed / Verify on Official Page",
+  "deadlineSort": "2026-12-27",
+  "eligibility": "Grades 9-12 reported by third parties; official page lists financial aid and scholarships. Egypt eligibility: Unconfirmed / Verify on Official Page.",
+  "travelDuration": "Remote only. About 12 weeks, one-on-one with a PhD mentor.",
+  "funding": "Paid. Third parties report about $3,390; the official page offers financial aid and scholarships. Price: Unconfirmed / Verify on Official Page.",
+  "fit": "Pros: a paper in CS or philosophy with mentor feedback, and financial aid is offered. Cons: the price and deadline are not confirmed on the official page, there is no travel, and it is selective with an interview round.",
+  "tags": [
+   "tech"
+  ],
+  "isFree": false,
+  "hasTravel": false
+ },
+ {
+  "deadlineConfirmed": false,
+  "id": 5,
+  "name": "Coolest Projects Online 2027",
+  "type": "Competition / Showcase",
+  "url": "https://online.coolestprojects.org/cp-online-2027",
+  "deadline": "Entries open Jan 13, 2027. Closing date: Unconfirmed / Verify on Official Page. Livestream Jun 23, 2027",
+  "deadlineSort": "2027-01-13",
+  "eligibility": "Any young person up to 18, anywhere. Ages 13+ can register their own project; teams up to 5.",
+  "travelDuration": "Remote only.",
+  "funding": "Free. Certificates and feedback for all entrants; VIP judges highlight some projects.",
+  "fit": "Pros: free, global, any code project, and your age is fine. Cons: it is a showcase, so there are no big prizes and no travel. Good for getting a project in front of people.",
+  "tags": [
+   "tech",
+   "free"
+  ],
+  "isFree": true,
+  "hasTravel": false
+ },
+ {
+  "deadlineConfirmed": true,
+  "id": 6,
+  "name": "Global Game Jam 2027",
+  "type": "Hackathon (game jam)",
+  "url": "https://globalgamejam.org/important-dates",
+  "deadline": "Jammer sign-ups open Dec 1, 2026; jam Jan 25-31, 2027 (sites choose 48 hours)",
+  "deadlineSort": "2027-01-25",
+  "eligibility": "Open to all; under-18 rules depend on the local jam site. Cairo-area sites: Unconfirmed / Verify on Official Page.",
+  "travelDuration": "In-person at a local site or online. No international travel.",
+  "funding": "Typically free. Local site fees: Unconfirmed / Verify on Official Page.",
+  "fit": "Pros: 48 hours to build a game with a team, free, low barrier, good first hackathon. Cons: no international travel and no cash prizes. Look for a Cairo or Mansoura site, or join online.",
+  "tags": [
+   "tech",
+   "free"
+  ],
+  "isFree": true,
+  "hasTravel": false
+ },
+ {
+  "deadlineConfirmed": false,
+  "id": 7,
+  "name": "Hack Club Crossroads",
+  "type": "Hackathon / Travel program",
+  "url": "https://crossroads.hackclub.com/",
+  "deadline": "Event Feb 2027. Qualification is by building projects; cutoff Unconfirmed / Verify on Official Page",
+  "deadlineSort": "2027-02-01",
+  "eligibility": "Teens 13-18 (both ends included). Open source software projects. Egypt eligibility: no country limit stated; visa: Unconfirmed / Verify on Official Page.",
+  "travelDuration": "In person: 65 hours of building, then 5 days by train through Berlin, Paris, Brussels and Milan with 30 teens.",
+  "funding": "Free for those who qualify: train passes, food and accommodation. International flights to Berlin: Unconfirmed / Verify on Official Page.",
+  "fit": "Pros: it is a rare free Europe trip built for coders, and it matches your wish for travel plus programming. Cons: only 30 seats, a Schengen visa is not guaranteed (the organisers only promise to help), and flights are unconfirmed. Begin logging project hours now.",
+  "tags": [
+   "tech",
+   "travel",
+   "free"
+  ],
+  "isFree": true,
+  "hasTravel": true
+ },
+ {
+  "deadlineConfirmed": false,
+  "id": 8,
+  "name": "Wolfram High School Summer Research Program",
+  "type": "Program (residential)",
+  "url": "https://education.wolfram.com/summer-research-high-school/faq/",
+  "deadline": "Early Decision / Regular Decision rounds (deposit dates Feb 26 and Apr 30, 2027). Application deadlines: Unconfirmed / Verify on Official Page",
+  "deadlineSort": "2027-02-26",
+  "eligibility": "Ages 14-17; cannot turn 18 during the program. International students accepted and must arrange visas.",
+  "travelDuration": "In person at Bentley University near Boston, USA, June 28 - July 17, 2027 (3 weeks).",
+  "funding": "Paid: $6,500 including room and board and a $500 non-refundable deposit. Financial aid: Unconfirmed / Verify on Official Page.",
+  "fit": "Pros: three weeks in the USA, a project with Wolfram staff, and strong computing focus. Cons: a US visa is a real hurdle and the fee is high with no confirmed aid. Realistic only with funding.",
+  "tags": [
+   "tech",
+   "travel"
+  ],
+  "isFree": false,
+  "hasTravel": true
+ },
+ {
+  "deadlineConfirmed": false,
+  "id": 9,
+  "name": "Rise (Schmidt Futures and Rhodes Trust)",
+  "type": "Fellowship / Scholarship",
+  "url": "https://www.risefortheworld.org/",
+  "deadline": "2027 cycle deadline not posted: Unconfirmed / Verify on Official Page",
+  "deadlineSort": "2027-03-01",
+  "eligibility": "Ages 15-17 as of July 1 of the cohort year (from a third-party summary); no citizenship restriction. You turn 15 in 2026 and 16 in Sept 2027, so the 2027 cohort fits.",
+  "travelDuration": "Mostly remote. In-person events: Unconfirmed / Verify on Official Page.",
+  "funding": "Free. Support may include need-based scholarships, mentorship and further funding.",
+  "fit": "Pros: a lifelong network and a global talent search, free. Cons: the focus is service to others, so you need a project that helps people, and only up to 100 fellows are chosen worldwide. Very competitive.",
+  "tags": [
+   "free"
+  ],
+  "isFree": true,
+  "hasTravel": false
+ },
+ {
+  "deadlineConfirmed": false,
+  "id": 10,
+  "name": "picoCTF / CyLab Security Academy",
+  "type": "Competition (cybersecurity CTF)",
+  "url": "https://picoctf.org/",
+  "deadline": "2027 dates not posted. The 2026 event ran Mar 9-19 (registration Feb 1 - Mar 17). 2027: Unconfirmed / Verify on Official Page",
+  "deadlineSort": "2027-03-17",
+  "eligibility": "Participants 13+; middle school, high school and college students; worldwide. Cash prize eligibility depends on residence: Unconfirmed / Verify on Official Page.",
+  "travelDuration": "Remote only.",
+  "funding": "Free to play. Prize eligibility for non-US students: Unconfirmed / Verify on Official Page.",
+  "fit": "Pros: free, strong for logic and security skills, and you can practise year-round on the platform. Cons: no travel, and prize rules may exclude non-US residents. Start practising now.",
+  "tags": [
+   "tech",
+   "free"
+  ],
+  "isFree": true,
+  "hasTravel": false
+ },
+ {
+  "deadlineConfirmed": false,
+  "id": 11,
+  "name": "International Olympiad in Artificial Intelligence (IOAI) 2027",
+  "type": "Competition (national team)",
+  "url": "https://ioai-official.org/editions/singapore-2027/",
+  "deadline": "Registration reported open (Nov 2026). National selection dates for Egypt: Unconfirmed / Verify on Official Page",
+  "deadlineSort": "2027-04-01",
+  "eligibility": "High school students on national teams. Age cap and Egypt's national selection process: Unconfirmed / Verify on Official Page.",
+  "travelDuration": "In person in Singapore, July 4-10, 2027.",
+  "funding": "Host-country coverage terms: Unconfirmed / Verify on Official Page.",
+  "fit": "Pros: top-tier AI contest, a trip to Singapore, and strong fit. Cons: you need to be picked through a national process, which is not confirmed for Egypt. Ask your school and the Egyptian ministry.",
+  "tags": [
+   "tech",
+   "travel"
+  ],
+  "isFree": false,
+  "hasTravel": true
+ },
+ {
+  "deadlineConfirmed": false,
+  "id": 12,
+  "name": "International Philosophy Olympiad (IPO) 2027",
+  "type": "Competition (national team, essay)",
+  "url": "https://www.philosophy-olympiad.org/",
+  "deadline": "National rounds before May 2027. Egypt's selection: Unconfirmed / Verify on Official Page",
+  "deadlineSort": "2027-04-15",
+  "eligibility": "Secondary students on national delegations. Egypt participation: Unconfirmed / Verify on Official Page.",
+  "travelDuration": "In person. An Austrian organiser page reports Astana, May 13-16, 2027 (host city: verify on the official page).",
+  "funding": "Unconfirmed / Verify on Official Page.",
+  "fit": "Pros: fits your logic and philosophy interest. Cons: I could not confirm that Egypt sends a team, so this may be unreachable. Check the IPO site for an Egyptian contact before investing time.",
+  "tags": [
+   "travel"
+  ],
+  "isFree": false,
+  "hasTravel": true
+ },
+ {
+  "deadlineConfirmed": false,
+  "id": 13,
+  "name": "International Olympiad in Informatics (IOI) 2027 via EOI",
+  "type": "Competition (national team)",
+  "url": "https://ioi2027.de/",
+  "deadline": "Egyptian Olympiad in Informatics (EOI) rounds; 2027 dates Unconfirmed / Verify on Official Page",
+  "deadlineSort": "2027-05-01",
+  "eligibility": "High school students. Egypt selects its team through the EOI at AASTMT's Regional Informatics Center (https://www.eoi-eg.org/).",
+  "travelDuration": "In person at Hasso Plattner Institute, Potsdam, Germany, Sept 12-19, 2027.",
+  "funding": "Team costs are usually covered by the national organisers: Unconfirmed / Verify on Official Page.",
+  "fit": "Pros: the most prestigious programming contest, and it fits your coding focus. Cons: very competitive, needs strong algorithms, and a Schengen visa is needed. At 15 you can start early since the team forms over several years. Join EOI training and Codeforces now.",
+  "tags": [
+   "tech",
+   "travel"
+  ],
+  "isFree": true,
+  "hasTravel": true
+ },
+ {
+  "deadlineConfirmed": false,
+  "id": 14,
+  "name": "John Locke Institute Global Essay Prize",
+  "type": "Competition (essay)",
+  "url": "https://www.johnlockeinstitute.com/essay-competition",
+  "deadline": "2026 cycle is closed. 2027 dates: Unconfirmed / Verify on Official Page (the 2026 deadline was reported as May 31)",
+  "deadlineSort": "2027-05-31",
+  "eligibility": "Any nationality, under 19; Junior category for under 15 on the deadline. No minimum age. Parental consent is needed for under-18 interviews.",
+  "travelDuration": "Remote essay. Winners may be invited to events: Unconfirmed / Verify on Official Page.",
+  "funding": "Free to enter per official page text. Reported prize: $5,000 scholarship for first place per category; check the official page.",
+  "fit": "Pros: Philosophy and Science and Technology categories, free, and no age minimum. Cons: no guaranteed travel, and the judges are very selective. A strong essay in Philosophy is a realistic goal.",
+  "tags": [
+   "free"
+  ],
+  "isFree": true,
+  "hasTravel": false
+ },
+ {
+  "deadlineConfirmed": false,
+  "id": 15,
+  "name": "World Robot Olympiad (WRO) via Egypt national rounds",
+  "type": "Competition",
+  "url": "https://wro-association.org/competition/categories/",
+  "deadline": "Egypt regional and national rounds ran Aug-Sep in past years. 2027 registration: Unconfirmed / Verify on Official Page",
+  "deadlineSort": "2027-06-01",
+  "eligibility": "Ages 8-19 by category; Future Engineers (self-driving cars) is 14-22 per the 2026 rules. You enter through an Egyptian team and national organiser.",
+  "travelDuration": "Hybrid. National finals in Egypt; the 2026 international final is Dec 8-10 in Puerto Rico. 2027 venue: Unconfirmed / Verify on Official Page.",
+  "funding": "Team registration fees apply. One 2024 Egyptian listing showed LE 5,500; current fee Unconfirmed / Verify on Official Page.",
+  "fit": "Pros: Future Engineers is a good programming and engineering fit, and it can lead to a trip abroad. Cons: you need a team, a coach and the fees. Qualifying slots are limited, and visas can be tricky.",
+  "tags": [
+   "tech",
+   "travel"
+  ],
+  "isFree": false,
+  "hasTravel": true
+ },
+ {
+  "deadlineConfirmed": false,
+  "id": 16,
+  "name": "FIRST Global Challenge (Team Egypt)",
+  "type": "Competition (robotics)",
+  "url": "https://first.global/faq/",
+  "deadline": "Team selection by the Egyptian partner. 2027 timeline: Unconfirmed / Verify on Official Page",
+  "deadlineSort": "2027-06-30",
+  "eligibility": "Students aged 14-18. One national team per country, chosen by FIRST Global's in-country partner.",
+  "travelDuration": "In person abroad. The 2026 event was Oct 7-10 in Incheon, Korea. 2027 host: Unconfirmed / Verify on Official Page.",
+  "funding": "Team travel is normally handled by the national team organiser. Costs to students: Unconfirmed / Verify on Official Page.",
+  "fit": "Pros: a real international trip and a team-engineering challenge. Cons: only one national team, selected by a partner, so odds are low and the process is opaque. Contact the Egyptian partner via the Team Egypt page.",
+  "tags": [
+   "tech",
+   "travel"
+  ],
+  "isFree": false,
+  "hasTravel": true
+ },
+ {
+  "deadlineConfirmed": false,
+  "id": 17,
+  "name": "Emergent Ventures Grant",
+  "type": "Grant / Fellowship",
+  "url": "https://mercatus.tfaforms.net/5099527",
+  "deadline": "Rolling",
+  "deadlineSort": null,
+  "eligibility": "Applicants must be 13+. All parts of the world welcome. Proposal up to 1,500 words.",
+  "travelDuration": "Remote.",
+  "funding": "Free to apply. Grant sizes are project-specific, and there is no typical amount.",
+  "fit": "Pros: age fits, global, funds an unusual idea such as a software tool. Cons: no travel, and you need a concrete project plan. Realistically competitive.",
+  "tags": [
+   "free"
+  ],
+  "isFree": true,
+  "hasTravel": false
+ },
+ {
+  "deadlineConfirmed": false,
+  "id": 18,
+  "name": "Erasmus+ Youth Exchanges",
+  "type": "Exchange",
+  "url": "https://erasmus-plus.ec.europa.eu/programme-guide/part-b/key-action-1/youth-exchanges",
+  "deadline": "Rolling; depends on each sending organisation and project",
+  "deadlineSort": null,
+  "eligibility": "Ages 13-30 (group leader 18+). Joins through a sending organisation or youth group, not individually. Egypt can take part in projects with an EU organiser (per third-party summary): Unconfirmed / Verify on Official Page.",
+  "travelDuration": "In person in Europe, 5-21 days.",
+  "funding": "Project grants usually cover travel, accommodation and meals (third-party summary; confirm per project).",
+  "fit": "Pros: a real, funded trip to Europe at your age. Cons: you need a youth organisation to send you, themes are non-tech (often social topics), and visas apply. You must avoid environmental-themed exchanges.",
+  "tags": [
+   "travel",
+   "free"
+  ],
+  "isFree": true,
+  "hasTravel": true
+ },
+ {
+  "deadlineConfirmed": false,
+  "id": 19,
+  "name": "Rotary Youth Exchange",
+  "type": "Exchange",
+  "url": "https://www.rotary.org/get-involved/youth-programs/rotary-youth-exchange",
+  "deadline": "Set by your local Rotary club and district: Unconfirmed / Verify on Official Page",
+  "deadlineSort": null,
+  "eligibility": "Students ages 15-19. You apply through a Rotary club in Egypt.",
+  "travelDuration": "In person abroad: long-term (a school year) or short-term (weeks).",
+  "funding": "Costs vary by district: Unconfirmed / Verify on Official Page.",
+  "fit": "Pros: a true cultural exchange; your age is right at the start of the range. Cons: not tech-focused, costs and placement vary, and it needs a local club. Ask a Rotary club in Mansoura or Cairo.",
+  "tags": [
+   "travel"
+  ],
+  "isFree": false,
+  "hasTravel": true
+ },
+ {
+  "deadlineConfirmed": false,
+  "id": 20,
+  "name": "Sakura Science High School Program (Japan, JST)",
+  "type": "Exchange",
+  "url": "https://ssp.jst.go.jp/en/jst/highschool/",
+  "deadline": "Selected through partner institutions; application path Unconfirmed / Verify on Official Page",
+  "deadlineSort": null,
+  "eligibility": "High school students invited from selected countries. A 2025 group included 56 students from Egypt, Ghana, India, Kenya, Nigeria, South Africa and Zambia. How individuals are chosen: Unconfirmed / Verify on Official Page.",
+  "travelDuration": "In person, one week in Japan (visits to labs and JAXA/RIKEN type institutions).",
+  "funding": "Invitation program run by JST. Coverage: Unconfirmed / Verify on Official Page.",
+  "fit": "Pros: Egypt was in the 2025 group and Japan is a strong tech destination. Cons: you cannot apply directly as far as I could confirm, and it is a science tour, not a competition. Ask your school.",
+  "tags": [
+   "travel",
+   "free"
+  ],
+  "isFree": true,
+  "hasTravel": true
+ },
+ {
+  "deadlineConfirmed": false,
+  "id": 21,
+  "name": "ISEF Egypt (ASTF) to Regeneron ISEF",
+  "type": "Competition (science and engineering fair)",
+  "url": "https://www.astf.net/isef-egypt.html",
+  "deadline": "Egyptian fair timeline: Unconfirmed / Verify on Official Page",
+  "deadlineSort": null,
+  "eligibility": "Students aged 14-18 (grades 9-12), all school types in Egypt. Winners can go to the international ISEF.",
+  "travelDuration": "In person. The international ISEF is abroad. Host city: Unconfirmed / Verify on Official Page.",
+  "funding": "Prizes and scholarships at ISEF (official page claims up to $4 million in total). Travel cover for Egyptian winners: Unconfirmed / Verify on Official Page.",
+  "fit": "Pros: computer science projects compete here, and Egyptian students can qualify, with a real trip for winners. Cons: you need a solid original project, and categories lean to lab science. Many projects are environment-themed, so avoid those.",
+  "tags": [
+   "tech",
+   "travel"
+  ],
+  "isFree": true,
+  "hasTravel": true
+ },
+ {
+  "deadlineConfirmed": false,
+  "id": 22,
+  "name": "TEKNOFEST Technology Competitions",
+  "type": "Competition",
+  "url": "https://www.teknofest.org/en/competitions/",
+  "deadline": "Applications open online per competition: Unconfirmed / Verify on Official Page",
+  "deadlineSort": null,
+  "eligibility": "Each competition has its own age, team and country rules; some are open to school students. Egypt-specific rules: Unconfirmed / Verify on Official Page.",
+  "travelDuration": "In person in Turkey for finals.",
+  "funding": "Prizes exist; travel costs for foreign teams: Unconfirmed / Verify on Official Page.",
+  "fit": "Pros: big prizes and a festival abroad, with AI, robotics and software categories. Cons: many categories are for older teams or Turkish institutions, and I could not confirm what is open to a 15-year-old Egyptian. Read each competition's rules.",
+  "tags": [
+   "tech",
+   "travel"
+  ],
+  "isFree": false,
+  "hasTravel": true
+ },
+ {
+  "deadlineConfirmed": false,
+  "id": 23,
+  "name": "The Knowledge Society (TKS)",
+  "type": "Program",
+  "url": "https://www.tks.world/apply-now",
+  "deadline": "Rolling cohorts: Unconfirmed / Verify on Official Page",
+  "deadlineSort": null,
+  "eligibility": "Ages 13-17, 80+ countries.",
+  "travelDuration": "Remote (virtual program) or in-person in some cities (e.g. Dubai).",
+  "funding": "Paid. Virtual: $489 per month plus a $1,000 deposit (USD) per the official page; in-person is higher. Aid: Unconfirmed / Verify on Official Page.",
+  "fit": "Pros: a 10-month builder community, a good fit for ambitious teens. Cons: expensive over ten months, with no travel in the virtual version. Check the aid options.",
+  "tags": [
+   "tech"
+  ],
+  "isFree": false,
+  "hasTravel": false
+ },
+ {
+  "deadlineConfirmed": false,
+  "id": 24,
+  "name": "Qiskit Global Summer School",
+  "type": "Program (quantum computing)",
+  "url": "https://www.ibm.com/quantum/blog/qiskit-summer-school-2026",
+  "deadline": "2027 dates Unconfirmed / Verify on Official Page (the 2026 school ran Jul 13-24 with a Jun 19 registration deadline)",
+  "deadlineSort": null,
+  "eligibility": "Open to students, educators, developers and professionals; Python familiarity is recommended. Age limit for minors: Unconfirmed / Verify on Official Page.",
+  "travelDuration": "Remote only, two weeks.",
+  "funding": "Free in 2026 per the listing; 2027: Unconfirmed / Verify on Official Page.",
+  "fit": "Pros: free, a hard and unusual topic, and good for logic-minded coders. Cons: no travel, and it is easy to get lost without strong math. Do it for the skill.",
+  "tags": [
+   "tech",
+   "free"
+  ],
+  "isFree": true,
+  "hasTravel": false
+ },
+ {
+  "deadlineConfirmed": false,
+  "id": 25,
+  "name": "Stanford Code in Place",
+  "type": "Program (course)",
+  "url": "https://codeinplace.stanford.edu/",
+  "deadline": "2026 class started April 2026; 2027 dates Unconfirmed / Verify on Official Page",
+  "deadlineSort": null,
+  "eligibility": "Learners with no programming experience; online worldwide. Age rules: Unconfirmed / Verify on Official Page.",
+  "travelDuration": "Remote only.",
+  "funding": "Free, with a certificate.",
+  "fit": "Pros: free, Stanford CS106A Python content. Cons: for beginners, so probably below your level if you already code. Useful only as a refresher or a teaching experience.",
+  "tags": [
+   "tech",
+   "free"
+  ],
+  "isFree": true,
+  "hasTravel": false
+ }
+]
